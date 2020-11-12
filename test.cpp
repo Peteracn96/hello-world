@@ -3,7 +3,9 @@
 
 using namespace std;
 
-//Olá
+//Olá, eu sou o Pedro
+
+//Hi, I am Peter
 
 class Rectangle {
 
